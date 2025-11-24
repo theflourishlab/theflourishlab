@@ -137,12 +137,6 @@ If that sounds like you, feel free to explore my repos or reach out anytime.
 </a>
 </p>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theflourishlab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theflourishlab&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 💬 Let's Collaborate
 
